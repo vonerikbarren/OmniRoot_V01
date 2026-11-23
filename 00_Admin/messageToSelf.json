@@ -1,0 +1,52 @@
+{
+  "payload_meta": {
+    "message_id": "msg_bos_test_20261123",
+    "generated_at": "2026-11-23T16:36:00-05:00",
+    "region": "Greater Boston, MA",
+    "test_flag": true
+  },
+  "feed_items": [
+    {
+      "id": "bos-001",
+      "category": "Politics & Legal",
+      "headline": "Boston Joins Lawsuit Against Federal Immigrant Housing Rules",
+      "summary": "Mayor Michelle Wu announced Boston is joining a legal challenge against new federal requirements that could cause over 500 local households to lose housing assistance starting Dec. 15.",
+      "source": "Dorchester Reporter / WBUR"
+    },
+    {
+      "id": "bos-002",
+      "category": "Legal & Immigration",
+      "headline": "AG Andrea Campbell Sues ICE Over Courthouse Arrests",
+      "summary": "Massachusetts Attorney General Andrea Campbell filed a lawsuit against U.S. Immigration and Customs Enforcement challenging warrantless arrests at state courthouses.",
+      "source": "Dorchester Reporter"
+    },
+    {
+      "id": "bos-003",
+      "category": "Civic & Waterfront",
+      "headline": "Boston Waterways Board Reconvenes After Over a Decade",
+      "summary": "Nine newly appointed members convened to establish safety, climate resilience, and public access protocols for Boston Harbor and the waterfront.",
+      "source": "City of Boston"
+    },
+    {
+      "id": "bos-004",
+      "category": "Regional & Traffic",
+      "headline": "Crane Truck Strikes Overpass on I-495 in Chelmsford",
+      "summary": "One person suffered critical injuries Monday morning after a truck hauling a crane collided with a bridge along Route 495.",
+      "source": "CBS Boston"
+    },
+    {
+      "id": "bos-005",
+      "category": "Sports",
+      "headline": "Patriots QB Drake Maye Sidelined With Fractured Fibula",
+      "summary": "Reports indicate New England Patriots quarterback Drake Maye suffered a fractured right fibula and could miss the remainder of the regular season.",
+      "source": "CBS Boston"
+    },
+    {
+      "id": "bos-006",
+      "category": "Weather",
+      "headline": "Mild Monday Gives Way to Pre-Thanksgiving Cooldown",
+      "summary": "After afternoon highs in the 60s, temperatures are forecast to drop into the 40s Tuesday through Thursday ahead of a potential Thanksgiving night rain system.",
+      "source": "Boston 25 News"
+    }
+  ]
+}
